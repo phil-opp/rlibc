@@ -1,6 +1,6 @@
 [package]
 
-name = "rlibc"
+name = "libc"
 version = "0.1.4"
 authors = ["The Rust Project Developers"]
 
